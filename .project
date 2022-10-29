@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>template-r-package</name>
+	<name>vegStore</name>
 	<comment>
-		A GitHub template for an R package. Edit this description an the name.
+		An R-package for accessing data stored in Zenodo using taxlist,
+		vegtable, and biblio.
 	</comment>
 	<projects>
 	</projects>
